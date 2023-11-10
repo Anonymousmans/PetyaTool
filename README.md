@@ -1,7 +1,9 @@
 # PetyaTool
+
+The password for all archives is **mysubsarethebest**
+
 I am not responsible for any damage caused by the malware inside my repository and your negligence in general.
 
-The password for all archives is mysubsarethebest
 
 Here you can find answers to frequently asked questions. This may be helpful!
 Q: What is the password for the archive I've downloaded?
